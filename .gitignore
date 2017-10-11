@@ -1,0 +1,3 @@
+data/kernel-src/
+data/*.tar.xz
+*.log
